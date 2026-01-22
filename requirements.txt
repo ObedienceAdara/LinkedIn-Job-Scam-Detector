@@ -1,5 +1,4 @@
 streamlit
-undetected-chromedriver
+selenium==4.15.2
 beautifulsoup4
 requests
-selenium

@@ -6,7 +6,7 @@ Built after nearly falling victim to a sophisticated job scam. This tool analyze
 
 ## 🚀 Live Demo
 
-**[Try it now →](YOUR_STREAMLIT_URL_HERE)**
+**[Try it now →](https://linkedin-job-scam-detector.streamlit.app/)**
 
 ## 📊 Quick Stats
 
@@ -74,8 +74,8 @@ Automated scam detection that:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/linkedin-scam-detector.git
-cd linkedin-scam-detector
+git clone https://github.com/obedienceadara/linkedin-scam-detector.git
+cd linkedin-job-scam-detector
 
 # Install dependencies
 pip install -r requirements.txt
